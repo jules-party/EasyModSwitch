@@ -1,0 +1,12 @@
+dirs: [
+  'C:\Users\user\MC-Mods\1.8.9',
+  'C:\Users\user\MC-Mods\1.12.2',
+  'C:\Users\user\MC-Mods\1.16.5',
+  'C:\Users\user\MC-Mods\1.18.2',
+  'C:\Users\user\MC-Mods\1.19.4'
+] 
+
+mods_folder: "" # Only change if mod folder is in a different location than the default one
+
+appearance_mode: "System" # Modes: System, light, dark
+color_theme: "blue"       # Themes: blue, dark-blue, green
