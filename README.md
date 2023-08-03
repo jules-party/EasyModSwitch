@@ -1,5 +1,5 @@
 # EasyModSwitch
-A easy way to switch your mods using Python
+A easy way to switch your mods for Minecraft using Python
 
 # Install / Download
 
